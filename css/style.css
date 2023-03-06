@@ -15,11 +15,11 @@
   padding: 0;
   position: relative;
   left: 50%;
-  float: left;         
+  float: left;
 }
 
 #main-navbar ul li {
-  float: left; 
+  float: left;
   position: relative;
   right: 50%;
   display: block;
@@ -33,11 +33,11 @@
 }
 
 #main-navbar ul li a:hover {
-   background-color: #000;
+  background-color: #000;
 }
 
 #onpage {
-   text-decoration: underline overline;
+  text-decoration: underline overline;
 }
 
 #sidebar {
@@ -51,11 +51,11 @@
 #sidebar ul {
   list-style-type: none;
   text-align: center;
-  padding: 0;
-  display: block;         
+  padding: 0;         
 }
 
 #sidebar ul li a {
+  display: block;				 
   padding: 15px 0;
   color: #fff;
   text-decoration: none;
